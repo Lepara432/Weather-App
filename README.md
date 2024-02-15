@@ -1,3 +1,6 @@
+
+
+
 # Weather App
 
 * Checking a weather when a city name is entered.
@@ -5,7 +8,7 @@
 
 # APIs
 * Fetch and display data from external sources(penweathermap.com)
-* 
+  
 ## Tech Stack
 
 * HTML
